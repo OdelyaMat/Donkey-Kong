@@ -1,0 +1,11 @@
+RESULT FILES FORMAT:
+
+will include due of information of type: ( GameTime , result )
+gametime will tell the time of the event, result will be one of the Enum variables in Class Result (finished, hitEnemy etc.)
+the last due of information will be of type: ( score, result )
+instead of time, well have the score at the end of the game.
+
+STEPS FILES FORMAT:
+
+will include due of information of type: ( GameTime, Key)
+gametime will indicate as well for the time of the event, and Key will represent the key input of the user ( 'a' , 's' , 'd' , 'w' , 'p' )
